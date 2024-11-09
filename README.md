@@ -1,2 +1,1 @@
-# FEAReact
-Developing Front-End Apps with React
+# coding-project-template
